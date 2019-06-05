@@ -1,6 +1,6 @@
 --Tomas Giannini
 --June 5, 2019
---This is a test menu
+--This is an arithmetic menu
 
 function multiply(num1, num2)
   
